@@ -1,4 +1,4 @@
-module github.com/N8Brooks/learninggo/ch10
+module github.com/N8Brooks/learninggo/tree/main/ch10
 
 go 1.21.3
 
